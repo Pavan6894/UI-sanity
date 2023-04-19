@@ -1,0 +1,65 @@
+.header__container {
+    padding: 11px 10px 0 10px;
+}
+.list li {
+   display: inline-block;
+}
+.center {
+    margin: 0 10rem 2rem;
+}
+img {
+    cursor: pointer;
+}
+.list__center li {
+    font-weight: bold;
+    padding:0 2rem;
+    cursor: pointer;
+}
+.list__tab {
+    color: gray;
+}
+.retail {
+    font-weight: bold;
+}
+.order__text {
+    color: white;
+    border-bottom: 3px solid red;
+}
+.icon {
+    font-size: 30px;
+    padding-left: 1.2rem;
+    cursor: pointer;
+}
+.list__icon {
+    position: relative;
+    /* display: inline-block; */
+}
+.section{
+   margin-bottom: 1rem;
+}
+.region div {
+    display: inline-block;
+    padding-right: 2rem;
+}
+.region div p {
+    font-size: 14px;
+}
+.list__image {
+    padding-right: 23px;
+}
+.list__icon .tooltip {
+    visibility: hidden;
+  padding: 4px;
+    background: white;
+    color: black;
+    position: absolute;
+    top: -28px;
+    left: 61%;
+    font-size: 10px;
+}
+.list__icon:hover .tooltip{
+ visibility: visible;
+}
+.list__center {
+    padding-bottom: 1rem;
+}

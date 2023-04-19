@@ -1,0 +1,56 @@
+.modal__container {
+    color: #000;
+    background: #fff;
+    margin: auto;
+    width: 70%;
+}
+.modal__header {
+    border-bottom: 1px solid gray;
+    padding: 1rem;
+    font-weight: bold;
+}
+.modal__body {
+    padding: 2rem;
+}
+.modal__body h3 {
+    margin-bottom: 2rem;
+}
+.modal__body p {
+    font-weight: bold;
+}
+.main__box {
+    padding: 2rem 1rem 1rem;
+}
+.box{
+margin: 1rem 0;
+}
+label {
+    padding: 0 2rem 0 1rem;
+    font-weight: bold;
+}
+select {
+    height: 2.5rem;
+    width: 14rem;
+    border-bottom: 2px solid gray;
+    cursor: pointer;
+    color: gray;
+    font-size: 15px;
+    padding: 10px;
+}
+select:focus {
+    outline: none;
+}
+.modal__footer {
+    border-top: 1px solid gray;
+    padding: 1rem;
+    text-align: center;
+}
+.btn {
+    text-transform: capitalize;
+    background: #000;
+    color: #fff;
+    padding: 1rem 3rem;
+    border-radius: 10rem;
+    font-weight: bold;
+    cursor: pointer;
+}

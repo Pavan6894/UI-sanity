@@ -1,0 +1,58 @@
+{
+    "products":[
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/61lW8Keh7YL._SL1500_.jpg",
+        "brand":"Fire-Boltt",
+        "name":"Fire-Boltt Ninja 2 SpO2 Full Touch Smartwatch with 30 Workout Modes, Heart Rate Tracking, and 100+ Cloud Watch Faces, 7 Days of extensive Battery",
+        "description":"Fire -Boltt is India' No 1 Wearable Watch Brand Q122 by IDC Worldwide quarterly wearable device tracker Q122.[SPO2/ Oxygen, Heart Rate Monitoring] - Fire-Boltt Ninja 2 Smatwatch comes with real time 24*7 SPO2 / Blood Oxygen tracking, Track your heart rate on the go with best in class technology. Get faster, accurate results;【Track each sport | 30 Workout Module】 - Sweat that fat out with each sports mode tracked and monitor. Enjoy your favourite sport and let the machine do the tracking.IP68 Rating Water Resistant- Fire-Boltt Ninja 2 comes with an IP68 Rating allowing you to enjoy mild rains with the watch! Sweat and Water Resistance at its Best!;[HD Large Screen Full Touch]- Fire-Boltt Ninja 2 smartwatch is a 1.3 inches Color screen full touch display, with 240*240 pixel HD clarity, the material, design and craftsmanship are all exquisite. Full capacitive touch, supporting taps and swipes.Upto 7 Day Battery Life - Powerful battery to concentrate on the game without stopping. Set Up Alarms] - Set alarms and never be late for that meeting.",
+        "price":1599,
+        "quantity":1
+    },
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/81E80ehHyiL._UX679_.jpg",
+        "brand":"Puma",
+        "name":"PUMA Unisex-Adult Baseball Cap",
+        "description":"Care Instructions: Hand Wash Only,Fit Type: Adjustable,Style Name:-Baseball Cap,Model Name:-Archive Logo BB Cap, Brand Color:-Puma Black-black Logo",
+        "price":799,
+        "quantity":1
+    },
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/611QYlzagoL._SL1500_.jpg",
+        "brand":"Strauss",
+        "name":"Strauss Bicycle Speedometer",
+        "description":"Multi functions with auto sleep and wake-up its records speed in mph/kmph, riding time, distance, scan, maintenance alert,Distance speed tracking and clear large display as the wonderful percent wireless sign showed.This bicycle speedometer is Shockproof and works great on rough roads as usual when riding. Portable size, light weight, wide application this bike odometer is only for 1.8 x 1.8 inches (l x w) and 0.18 lb, which is easy to carry and save your space. Easy to install and use it is easy to follow instructions, great basic functions of the speedometer and very specific tire size that enable accurate calculations",
+        "price":329,
+        "quantity":1
+    },
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/I/71XlOI9x+vL._SL1500_.jpg",
+        "brand":"Zebronics",
+        "name":"Zebronics Wired Keyboard and Mouse Combo with 104 Keys and a USB Mouse with 1200 DPI - JUDWAA 750",
+        "description":"Keyboard : Standard keyboard.Rupee key, Comfortable Silent Durable keys. Mouse : Ergonomic design, Accurate optical sensor, High resolution enabling faster navigation. ZEB-JUDWAA 750 is a standard USB wired keyboard and mouse combo that is designed ergonomically for smooth user experience. Power consumption : DC5V, <30mA. Connect to USB port allow the product to sync with desktop/ laptop",
+        "price":429,
+        "quantity":1
+    },
+    {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/I/31sylOqqHBL.jpg",
+        "brand":"Handcuffs",
+        "name":"Handcuffs Unisex Cap Quick Drying Sun Hat UV Protection Sports Cap for Mens and Womens",
+        "description":"Fit Type: Regular.💕 Has 50+ UPF to inhibit harmful UV rays and help protect your skin, Special material with anti-UV coating which has passed UPF 50+ test. which is real UV protective. Combined with Wide and Long Visor Design, Your Head, Face, Nose and Front Neck can be well covered. It protects you from sun burn better. Quick Dry Breathable: By applying super light and moisture wicking fabric and massive mesh design, brings you a lot of cool and comfortable. The hat can dry out very fast after washing. 💕 The brim and edges are reflective. The best cap for night running.These outdoor hats for men and women are so lightweight that you will easily forget about being wearing it. It meets all the requirements for comfort and functionality. With a sleek design and great moisture wicking management, you can be sure these men's reflective running hat will help you achieve your very best while making you feel comfortable.It's also a fashionable dad hat.💕 The product can prevent the light rain or light splash. Lotus effect will make the water drop slip naturally without the occurrence of leakage phenomenon in a short period of time! Widened Sweat Band: 3cm Widened sweat band is fit and comfortable. Stitch Crimping: It is more solid and durable by stitch crimping. High Quality Magic Stick Adjustment: There are no adjustable buttons at back of hat, hood can be adjusted according to different head circumferences. New hat design. 💕 Convenient and Easy Carry of Three Folds Cap Brim: The cap brim adopts the design of three folds it’s foldable and storage, It is suitable for regular daily use and outdoor activities especially like bush walking, Fishing/Hunting, hitch-of convenience during use. This unstructured running cap is the perfect travel companion. Be Safe Be Seen: A reflective band runs the entire rim of the running cap to improve your visibility on the road. A new multifunctional cap design. 💕 Hat circumference 22-24 inches (56-61cm); Only 2.3 oz (65g), Hat Brim: 2.76 inches/ 7cm, Hat Depth: 4.3inches/11cm. Material: Nylon and Polyester. Soft and breathable, Special material with anti-UV coating Waterproof coating, which has passed UPF 50+ test. And it will be not easily change shape nor color. Suitable For: Unstructured baseball cap hat fit run outdoor fishing Mountaineering Gym Night jogging camping. So Good gifts Of Unstructured baseball cap, Outdoor Running Cap.",
+        "price":549,
+        "quantity":1
+    },
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/I/61OfUYLkFEL._SX679_.jpg",
+        "brand":"Horlicks",
+        "name":"Horlicks Health & Nutrition Drink 1 kg Refill Pack, For immunity and 5 signs of growth(Chocolate)",
+        "description":"Health Drink that has nutrients to support immunity,Clinically proven to improve 5 signs of growth,Clinically proven to make kids Taller, Stronger & Sharper, Scientifically proven to improve Power of Milk, It helps in holistic development of Children, Horlicks has Bio-Available Nutrients which get absorbed in the blood and are carried to all parts of the body.",
+        "price":344,
+        "quantity":1
+    }
+]
+}
